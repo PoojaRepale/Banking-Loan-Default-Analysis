@@ -1,0 +1,33 @@
+Student 38: Pooja Repale
+Project Title: Banking Loan Default Analysis
+Project Overview:
+Analyze bank loan data to predict defaults and manage risk.
+SQL Tasks:
+• Total loans per branch.
+• Customers with overdue loans.
+• Avg loan amount per type.
+• Defaulted loans by segment.
+• Rank branches by defaulters.
+• Count loans approved vs rejected.
+• Identify high-risk customers.
+Pandas Tasks:
+• Load and clean dataset.
+• Handle missing values and encode features.
+• Calculate repayment rate.
+• Correlate income, loan amount, defaults.
+• Segment customers by risk.
+• Predict default probability (optional).
+• Loan approval trends.
+• Top 10 branches by repayment performance.
+Power BI Tasks:
+• Loan default dashboard.
+
+Final DA Project
+
+• Customer segmentation by risk.
+• Loan amount distribution charts.
+• KPI cards: total loans, default %, avg loan.
+• Trend charts for approvals/defaults.
+• Interactive filters: loan type/branch/risk.
+• Geo-map of default rates.
+Dataset: Kaggle – “Bank Loan dataset”

@@ -1,0 +1,9 @@
+pandas  --- Data loading,cleaning,EDA
+numpy   --- Numerical operations
+matplotlib  --- Visualizations
+seaborn   --- Statistical plots
+scikit-learn --- Machine learning(classification metrics)
+sqlalchemy --- Connecting Python to MySQL database
+pymysql --- MySQL driver
+jupyterlab/notebook--- To run .ipynb notebooks
+plotly --- for interactive graphs in notebooks

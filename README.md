@@ -15,8 +15,9 @@ This project analyzes bank loan data to understand customer risk and predict loa
 ## Project Structure
 - data/
 - notebooks/
-- src/
 - powerbi/
+- sql/
+
 
 ## How to Run
 1. Install requirements
